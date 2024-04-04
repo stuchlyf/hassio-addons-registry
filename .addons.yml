@@ -1,0 +1,7 @@
+---
+channel: stable
+addons:
+  adguard:
+    repository: stuchlyf/hassio-addon-jpeg-to-mjpeg
+    target: jpeg-to-mjpeg
+    image: ghcr.io/stuchlyf/hassio-addon-jpeg-to-mjpeg
